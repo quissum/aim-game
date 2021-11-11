@@ -11,6 +11,7 @@ body {
   overflow: hidden;
   margin: 0;
   text-align: center;
+  cursor: crosshair !important;
 }
 
 a {
