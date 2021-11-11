@@ -95,8 +95,8 @@ h2 {
   align-items: center;
   flex-wrap: wrap;
   position: relative;
-  width: 500px;
-  height: 500px;
+  width: 90vw;
+  height: 90vh;
   background: linear-gradient(118.38deg, #29323c -4.6%, #485563 200.44%);
   box-shadow: -8px -8px 20px #2a333d, 10px 7px 20px #475462;
   border-radius: 30px;
